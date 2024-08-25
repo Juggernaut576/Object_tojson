@@ -12,6 +12,8 @@ public class JsonWriter {
         Class klass = o.getClass();
 
         // Change 1
+
+        // Change 2
         return null;
     }
 }
