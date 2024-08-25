@@ -10,6 +10,8 @@ public class JsonWriter {
     public static String toJson(Object o) {
 
         Class klass = o.getClass();
+
+        // Change 1
         return null;
     }
 }
