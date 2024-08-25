@@ -9,7 +9,7 @@ public class Main {
         List<String> subjectIds2 = List.of("Math", "Physics", "Chemistry");
 
         // Creating the Student object
-        Student student = new Student("John Doe", 20, 85.5, subjectIds1);
+        Student student = new Student("John", 20, 85.5, subjectIds1);
         Student student1 = new Student("Arjun", 20, 90, subjectIds2);
 
         // Convert the Student object to JSON and print it
